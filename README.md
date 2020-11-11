@@ -9,7 +9,7 @@
 
 ## Preview
 
-![screenshot of Page]()
+![screenshot of Page](assets/img/page.png)
 
 ## Getting Started
 
