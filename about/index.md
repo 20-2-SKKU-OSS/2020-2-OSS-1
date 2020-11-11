@@ -6,7 +6,7 @@ date: 2020-11-12
 comments: false
 ---
     
-<center><b>LITIENGINE</b> Project is a project contribute to development of open-source 2D game, <a href="https://litiengine.com/">LITIENGINE</center>
+<center><b>LITIENGINE</b> Project is a project contribute to development of open-source 2D game, <a href="https://litiengine.com/"></a>LITIENGINE</center>
 
 ## Features
 
