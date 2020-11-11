@@ -6,7 +6,7 @@ date: 2020-11-12
 comments: false
 ---
     
-<center><b>LITIENGINE</b> Project is a project contribute to development of open-source 2D game, <a href="https://litiengine.com/">LITIENGINE</a></center>
+<center><b>LITIENGINE</b> Project is a project contribute to development of open-source 2D game, <a href="https://litiengine.com/" target="_blank">LITIENGINE</a></center>
 
 ## Features
 
@@ -16,8 +16,8 @@ comments: false
 
 ## GitHub Page
 
-Go to [GiHub Page](https://github.com/20-2-SKKU-OSS/2020-2-OSS-1.git) for more information.
+Go to [GiHub Page](https://github.com/20-2-SKKU-OSS/2020-2-OSS-1.git){:target="_blank"} for more information.
 
 ## Jekyll Theme
 
-Used [Jekyll Theme - Moon](https://github.com/TaylanTatli/Moon.git) for project page.
+Used [Jekyll Theme - Moon](https://github.com/TaylanTatli/Moon.git){:target="_blank"} for project page.
