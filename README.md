@@ -1,11 +1,10 @@
 # LITIENGINE Project 
 
 ## Features
-* f
-* e
-* a
-* t
-* ures
+
+* 2D game
+* Java base
+* Map editor - utiLITI
 
 ## Preview
 
