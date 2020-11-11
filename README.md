@@ -12,8 +12,8 @@
 
 ## Getting Started
 
-Go to [LITIENGINE Project](https://20-2-skku-oss.github.io/2020-2-OSS-1/){: target="_blank"} and get started.
+Go to [LITIENGINE Project](https://20-2-skku-oss.github.io/2020-2-OSS-1/) and get started.
 
 ## Jekyll Theme
 
-Used [Jekyll Theme - Moon](https://github.com/TaylanTatli/Moon.git){: target="_blank"} for project page.
+Used [Jekyll Theme - Moon](https://github.com/TaylanTatli/Moon.git) for project page.
