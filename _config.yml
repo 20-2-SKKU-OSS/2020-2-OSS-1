@@ -1,7 +1,7 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              LITIENGINE Project
+bio:                'Java 2D game engine project'
+description:        "LITIENGINE Project is a project contribute to development of open-source 2D game, LITIENGINE"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
