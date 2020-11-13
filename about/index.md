@@ -10,9 +10,24 @@ comments: false
 
 ## Features
 
-* 2D game
-* Java base
-* Map editor - utiLITI
+* Basic Game Infrastructure for 2D game
+* Provide API for game production
+* Basic Game Infrastructure Tool - Litiengine JAVA Library
+* Main Project Management & Map Editer - utiLITI
+* Provide 2D Render, Sound and Physics Engine
+* License - MIT License
+
+## LITIENGINE Overview
+
+1. CROSS-PLATFORM
+* JAVA base Library provide independency of platform.
+
+2. OPEN SOURCE
+* Anyone can use LITIENGINE freely and contribute to its development.
+* Open makes flexibility.
+
+3. BEGINNER FRIENDLY
+* The LITIENGINE API is designed to be easy to learn and simple.
 
 ## GitHub Page
 
