@@ -4,12 +4,8 @@ title:  "2020-12-03 진행상황"
 date:   2020-12-03
 excerpt: "개인별 진행상황 및 계획"
 project: true
-tag:
-- jekyll 
-- moon
-- blog
-- about
-- theme
+tags: [sample post, readability, test, image, feature]
+feature: http://i.imgur.com/Ds6S7lJ.png
 comments: true
 ---
 

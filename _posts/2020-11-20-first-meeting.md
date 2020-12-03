@@ -3,7 +3,8 @@ layout: post
 title: "2020-11-20 1차 회의"
 date: 2020-11-20
 excerpt: "Litiengine 기여 계획."
-tags: [sample post, readability, test]
+tags: [sample post, readability, test, image, feature]
+feature: http://i.imgur.com/Ds6S7lJ.png
 comments: true
 ---
 
